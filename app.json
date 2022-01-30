@@ -8,7 +8,7 @@
         "telegram bot",
         "python"
     ],
-    "repository": "https://github.com/amit-y11/torrent_bot",
+    "repository": "https://github.com/vivian-wis/torrent_bot",
     "env":{
         "bot_token":{
             "description":"Telegram bot token",
